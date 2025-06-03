@@ -25,7 +25,7 @@ Bu proje, dijital dünyadaki ayak izlerini takip ederek kamuya açık verileri (
 ## Team / *Ekip*
 
 - **2320191002** - Ahmet Can Kılıçarslan: Gelişitirici ve proje yöneticisi 
-  *Ad Soyad: Rolü veya Katkısı*
+  *
 - **222019042** - Emirhan Akdoğan: Gelişitirici ve proje yöneticisi 
 ---
 
