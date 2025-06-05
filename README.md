@@ -1,20 +1,21 @@
 <div align="center"> <img src="https://img.shields.io/github/languages/count/keyvanarasteh/Project?style=flat-square&color=blueviolet" alt="Language Count"> <img src="https://img.shields.io/github/languages/top/keyvanarasteh/Project?style=flat-square&color=1e90ff" alt="Top Language"> <img src="https://img.shields.io/github/last-commit/keyvanarasteh/Project?style=flat-square&color=ff69b4" alt="Last Commit"> <img src="https://img.shields.io/github/license/keyvanarasteh/Project?style=flat-square&color=yellow" alt="License"> <img src="https://img.shields.io/badge/Status-Active-green?style=flat-square" alt="Status"> <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=flat-square" alt="Contributions"> </div>
-🕵️‍♂️ **OSİNT TERSİNE MÜHENDİSLİK**
+OSİNT TERSİNE MÜHENDİSLİK
+
 Bu proje, dijital dünyadaki ayak izlerini takip ederek kamuya açık verileri (OSINT) akıllıca toplayan ve analiz eden bir araçtır. Hedefimiz, bu verilerden anlamlı bağlantılar kurmak, görselleştirmek ve güvenlik açıklarını da tersine mühendislik teknikleriyle ortaya çıkarmaktır.
 
 🚀 **Özellikler**
 Sosyal Medya Analizi: Kamuya açık sosyal medya hesaplarından veri toplar.
 
-Alan Adı & IP Sorgulama: Hedefin IP ve domain bilgileriyle ilgili detaylı bilgi sağlar.
+**Alan Adı & IP Sorgulama:** Hedefin IP ve domain bilgileriyle ilgili detaylı bilgi sağlar.
 
-Veri İhlali Kontrolü: E-posta ya da kullanıcı adının geçmişte veri sızıntısına uğrayıp uğramadığını kontrol eder.
+**Veri İhlali Kontrolü:** E-posta ya da kullanıcı adının geçmişte veri sızıntısına uğrayıp uğramadığını kontrol eder.
 
-Tersine Mühendislik: Dosyaların içindeki temel string’leri, metadata bilgilerini analiz eder.
+**Tersine Mühendislik:** Dosyaların içindeki temel string’leri, metadata bilgilerini analiz eder.
 
 👥 **Ekip**
-Ahmet Can Kılıçarslan (2320191002) – Geliştirici & Proje Yöneticisi
-
 Emirhan Akdoğan (222019042) – Geliştirici & Proje Yöneticisi
+
+Ahmet Can Kılıçarslan (2320191002) – Geliştirici & Proje Yöneticisi
 
 | Başlık                            | Dosya                                                                      | Açıklama                                                          |
 | --------------------------------- | -------------------------------------------------------------------------- | ----------------------------------------------------------------- |
@@ -69,7 +70,7 @@ Bu proje [MIT Lisansı](LICENSE.md) ile yayınlanmıştır. Dilediğin gibi kull
 
 ## 📬 İletişim
 
-Her türlü öneri, katkı veya geri bildirim için çekinmeden ulaş:
+Her türlü öneri, katkı veya geri bildirim için çekinmeden ulaşabilirsiniz:
 
 | İsim | E-posta |
 |------|---------|
@@ -77,4 +78,4 @@ Her türlü öneri, katkı veya geri bildirim için çekinmeden ulaş:
 | **Ahmet Can Kılıçarslan** | kilicarslanahmet59@gmail.com |
 
 
-Bir hata mı buldunuz, yeni bir özellik öneriniz mi var veya projemiz hakkında konuşmak mı istersiniz? Lütfen bir GitHub Sorunu (Issue) açın veya doğrudan benimle iletişime geçin
+Bir hata mı buldunuz, yeni bir özellik öneriniz mi var veya projemiz hakkında konuşmak mı istersiniz? Lütfen bir GitHub Sorunu (Issue) açın veya doğrudan bizimle iletişime geçin.
