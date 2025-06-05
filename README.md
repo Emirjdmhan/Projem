@@ -32,8 +32,7 @@ Bu projeye katkı sağlamak çok kolay! Aşağıdaki adımları takip ederek sen
 2. Fork’unu bilgisayarına indir:
    ```bash
    git clone https://github.com/Emirjdmhan/Projem.git
-cd Projem
-
+   cd Projem
    ```
 3. Yeni bir dal (branch) oluştur:
    ```bash
@@ -41,7 +40,7 @@ cd Projem
    # veya
    git checkout -b bugfix/hata-duzeltmesi-adi
    ```
-4. Değişikliklerini yap ve commit’le (mesajın açık ve net olsun).
+4. Değişikliklerini yap ve commit’le (mesajın açık ve net olsun).  
 5. Fork’una pushla:
    ```bash
    git push origin feature/yeni-ozellik-adi
