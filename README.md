@@ -1,7 +1,8 @@
 <div align="center"> <img src="https://img.shields.io/github/languages/count/keyvanarasteh/Project?style=flat-square&color=blueviolet" alt="Language Count"> <img src="https://img.shields.io/github/languages/top/keyvanarasteh/Project?style=flat-square&color=1e90ff" alt="Top Language"> <img src="https://img.shields.io/github/last-commit/keyvanarasteh/Project?style=flat-square&color=ff69b4" alt="Last Commit"> <img src="https://img.shields.io/github/license/keyvanarasteh/Project?style=flat-square&color=yellow" alt="License"> <img src="https://img.shields.io/badge/Status-Active-green?style=flat-square" alt="Status"> <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=flat-square" alt="Contributions"> </div>
-# OSİNT TERSİNE MÜHENDİSLİK
+ OSİNT TERSİNE MÜHENDİSLİK
+> Bu proje, OSİNT ve tersine mühendislik tekniklerini kullanarak dijital ayak izlerini analiz etmeye yönelik hazırlanmıştır. Aşağıda tüm detaylar mevcuttur.
 
-Bu proje, dijital dünyadaki ayak izlerini takip ederek kamuya açık verileri (OSINT) akıllıca toplayan ve analiz eden bir araçtır. Hedefimiz, bu verilerden anlamlı bağlantılar kurmak, görselleştirmek ve güvenlik açıklarını da tersine mühendislik teknikleriyle ortaya çıkarmaktır.
+Dijital dünyadaki ayak izlerini takip ederek kamuya açık verileri (OSINT) akıllıca toplayan ve analiz eden bir araçtır. Hedefimiz, bu verilerden anlamlı bağlantılar kurmak, görselleştirmek ve güvenlik açıklarını da tersine mühendislik teknikleriyle ortaya çıkarmaktır.
 
 🚀 **Özellikler**
 Sosyal Medya Analizi: Kamuya açık sosyal medya hesaplarından veri toplar.
