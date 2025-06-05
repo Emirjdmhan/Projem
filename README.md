@@ -25,7 +25,7 @@ Bu proje, dijital dünyadaki ayak izlerini takip ederek kamuya açık verileri (
 ## Team / *Ekip*
 
 - **2320191002** - Ahmet Can Kılıçarslan: Gelişitirici ve proje yöneticisi 
-  *
+  
 - **222019042** - Emirhan Akdoğan: Gelişitirici ve proje yöneticisi 
 ---
 
@@ -73,6 +73,7 @@ Sayın Hocam Keyvan Arasteh: Rehberliği ve şablon desteği için.
 Kullanılan tüm açık kaynak kütüphaneler ve araçlar: Projenin temelini oluşturan requests, BeautifulSoup4, python-whois, dnspython, Pillow, pypdf, python-docx, networkx gibi harika kütüphaneler için.
 Tersine mühendislik ve OSINT topluluğu: İlham veren araştırmaları ve araçlarıyla projemize yol gösteren tüm topluluk üyelerine.
 İletişim
+Proje Sorumlusu: Emirhan Akdoğan - akdoganetsemirhan@gmail.com
 Proje Sorumlusu: Ahmet Can Kılıçarslan - kilicarslanahmet59@gmail.com
 
 Bir hata mı buldunuz, yeni bir özellik öneriniz mi var veya projemiz hakkında konuşmak mı istersiniz? Lütfen bir GitHub Sorunu (Issue) açın veya doğrudan benimle iletişime geçin
