@@ -1,79 +1,79 @@
-<div align="center">
-  <img src="https://img.shields.io/github/languages/count/keyvanarasteh/Project?style=flat-square&color=blueviolet" alt="Language Count">
-  <img src="https://img.shields.io/github/languages/top/keyvanarasteh/Project?style=flat-square&color=1e90ff" alt="Top Language">
-  <img src="https://img.shields.io/github/last-commit/keyvanarasteh/Project?style=flat-square&color=ff69b4" alt="Last Commit">
-  <img src="https://img.shields.io/github/license/keyvanarasteh/Project?style=flat-square&color=yellow" alt="License">
-  <img src="https://img.shields.io/badge/Status-Active-green?style=flat-square" alt="Status">
-  <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=flat-square" alt="Contributions">
-</div>
+<div align="center"> <img src="https://img.shields.io/github/languages/count/keyvanarasteh/Project?style=flat-square&color=blueviolet" alt="Language Count"> <img src="https://img.shields.io/github/languages/top/keyvanarasteh/Project?style=flat-square&color=1e90ff" alt="Top Language"> <img src="https://img.shields.io/github/last-commit/keyvanarasteh/Project?style=flat-square&color=ff69b4" alt="Last Commit"> <img src="https://img.shields.io/github/license/keyvanarasteh/Project?style=flat-square&color=yellow" alt="License"> <img src="https://img.shields.io/badge/Status-Active-green?style=flat-square" alt="Status"> <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=flat-square" alt="Contributions"> </div>
+🕵️‍♂️ OSİNT TERSİNE MÜHENDİSLİK
+Bu proje, dijital dünyadaki ayak izlerini takip ederek kamuya açık verileri (OSINT) akıllıca toplayan ve analiz eden bir araçtır. Hedefimiz, bu verilerden anlamlı bağlantılar kurmak, görselleştirmek ve güvenlik açıklarını da tersine mühendislik teknikleriyle ortaya çıkarmaktır.
 
-# OSİNT TERSİNE MÜHENDİSLİK
+🚀 Özellikler
+Sosyal Medya Analizi: Kamuya açık sosyal medya hesaplarından veri toplar.
 
-Bu proje, dijital dünyadaki ayak izlerini takip ederek kamuya açık verileri (OSINT) akıllıca toplayan ve analiz eden bir araçtır. Amacı, hedefler hakkında derinlemesine bilgi edinmek ve bu bilgileri anlamlı bağlantılar kurarak görselleştirmektir. Aynı zamanda, güvenlik açıklarını tespit etmek ve sistemlerin iç işleyişini kavramak için tersine mühendislik tekniklerini entegre eden çok yönlü bir platformdur.
+Alan Adı & IP Sorgulama: Hedefin IP ve domain bilgileriyle ilgili detaylı bilgi sağlar.
 
----
+Veri İhlali Kontrolü: E-posta ya da kullanıcı adının geçmişte veri sızıntısına uğrayıp uğramadığını kontrol eder.
 
-## Features / *Özellikler*
+Tersine Mühendislik: Dosyaların içindeki temel string’leri, metadata bilgilerini analiz eder.
 
-- **Sosyal Medya Analizi:**Hedefin kamuya açık sosyal medya profillerinden bilgi toplar.
-- **Alan Adı & IP Sorgulama:** Web sitesi ve IP adresleri hakkında detaylı istihbarat sağlar.
-- **Veri İhlali Kontrolü:**  E-posta veya kullanıcı adının geçmiş veri ihlallerinde yer alıp almadığını tarar.
-- **Temel Tersine Mühendislik:** Dosya meta verilerini ve temel dizelerini çıkararak ilk analizleri yapar.
+👥 Ekip
+Ahmet Can Kılıçarslan (2320191002) – Geliştirici & Proje Yöneticisi
 
----
+Emirhan Akdoğan (222019042) – Geliştirici & Proje Yöneticisi
 
-## Team / *Ekip*
+| Başlık                            | Dosya                                                                      | Açıklama                                                          |
+| --------------------------------- | -------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| **OSINT Metodolojileri**          | [osint\_methodologies.md](researchs/osint_methodologies.md)                | OSINT veri toplama yöntemleri, etik kurallar ve en iyi pratikler. |
+| **Tersine Mühendislik Temelleri** | [reverse\_engineering\_basics.md](researchs/reverse_engineering_basics.md) | Disassembler, debugger gibi araçlarla temel tersine mühendislik.  |
+| **Web Scraping ve API Kullanımı** | [web\_scraping\_api.md](researchs/web_scraping_api.md)                     | Web'den veri çekme ve açık API kullanımıyla ilgili yöntemler.     |
 
-- **2320191002** - Ahmet Can Kılıçarslan: Gelişitirici ve proje yöneticisi 
-  
-- **222019042** - Emirhan Akdoğan: Gelişitirici ve proje yöneticisi 
----
 
-## Research / *Araştırmalar*
+## 🤝 Katkı Yapmak İstersen
 
-| Topic / *Başlık*        | Link                                    | Description / *Açıklama*                        |
-|-------------------------|-----------------------------------------|------------------------------------------------|
-| **OSINT Metodolojileri** | [researchs/osint_methodologies.md](researchs/osint_methodologies.md) | Farklı OSINT toplama teknikleri, etik kurallar ve en iyi uygulamalar üzerine detaylı bir inceleme. |
-| **Tersine Mühendislik Temelleri** | [researchs/reverse_engineering_basics.md](researchs/reverse_engineering_basics.md) | Yazılımların ve algoritmaların iç işleyişini anlama teknikleri, kullanılan araçlar (disassemblerlar, debuggerlar) ve temel kavramlar. |
-| **Web Scraping ve API Kullanımı** | [researchs/web_scraping_api.md](researchs/web_scraping_api.md) | Web sitelerinden veri çekme (scraping) ve açık API'ler (uygulama programlama arayüzleri) aracılığıyla veri toplama yöntemleri.      |
+Bu projeye katkı sağlamak çok kolay! Aşağıdaki adımları takip ederek sen de destek olabilirsin:
 
----
+1. Bu repoyu fork’la.  
+2. Fork’unu bilgisayarına indir:
+   ```bash
+   git clone https://github.com/AhmetCanKilicaslan/OSINT-TERSINE_MUHENDISLIK.git
+   cd OSINT-TERSINE_MUHENDISLIK
+   ```
+3. Yeni bir dal (branch) oluştur:
+   ```bash
+   git checkout -b feature/yeni-ozellik-adi
+   # veya
+   git checkout -b bugfix/hata-duzeltmesi-adi
+   ```
+4. Değişikliklerini yap ve commit’le (mesajın açık ve net olsun).
+5. Fork’una pushla:
+   ```bash
+   git push origin feature/yeni-ozellik-adi
+   ```
+6. GitHub üzerinden bir Pull Request aç.
 
-## Contributing / *Katkıda Bulunma*
-
-Projenize yapacağınız tüm katkıları memnuniyetle karşılıyoruz! Geliştirmemize yardımcı olmak için aşağıdaki adımları izleyebilirsiniz:
-
-1. Depoyu fork'layın (çatallayın). 
-2. Kendi fork'unuzu klonlayın: (`git clone https://github.com/AhmetCanKilicaslan/OSINT-TERSINE_MUHENDISLIK.git
-cd OSINT_TERSINE_MUHENDISLIK`).  
-3. Yeni bir özellik veya hata düzeltmesi için bir dal (branch) oluşturun (`git checkout -b feature/yeni-ozellik-adi
-# Veya hata düzeltmesi için: bugfix/hata-duzeltmesi-adi`).  
-4. Değişikliklerinizi yapın ve anlaşılır mesajlarla kaydedin  
-5. Değişikliklerinizi kendi fork'unuza itin  (`git push origin feature/yeni-ozellik-adi`).  
-6. GitHub üzerinden bir Çekme İsteği (Pull Request) açın.  
-
-Lütfen kodlama standartlarımıza uyun (see [CONTRIBUTING.md](CONTRIBUTING.md)).  
-
-*Topluluk katkilerini memnuniyetle karşılıyoruz! Katkıda bulunmak için yukarıdaki adımları izleyin ve kodlama standartlarımıza uyun.*
+> Kodlama standartlarımızı görmek için: [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ---
 
-## License / *Lisans*
+## 📄 Lisans
 
-Licensed under the [MIT License](LICENSE.md).  
+Bu proje [MIT Lisansı](LICENSE.md) ile yayınlanmıştır. Dilediğin gibi kullan, değiştir, paylaş. 🚀
 
 ---
 
-## Acknowledgements / *Teşekkürler* (Optional)
+## 🙏 Teşekkürler
 
-Teşekkürler
-Bu projenin geliştirilmesinde bize ilham veren ve destek olan herkese teşekkür ederiz:
+| Katkı | Açıklama |
+|-------|----------|
+| **Keyvan Arasteh** | Rehberlik ve proje şablonu desteği |
+| **Açık Kaynak Kütüphaneler** | `requests`, `BeautifulSoup4`, `python-whois`, `dnspython`, `Pillow`, `pypdf`, `python-docx`, `networkx` ve daha fazlası |
+| **Topluluklar** | OSINT ve Tersine Mühendislik topluluğu – ilham verici içerikleri ve araçlarıyla |
 
-Sayın Hocam Keyvan Arasteh: Rehberliği ve şablon desteği için.
-Kullanılan tüm açık kaynak kütüphaneler ve araçlar: Projenin temelini oluşturan requests, BeautifulSoup4, python-whois, dnspython, Pillow, pypdf, python-docx, networkx gibi harika kütüphaneler için.
-Tersine mühendislik ve OSINT topluluğu: İlham veren araştırmaları ve araçlarıyla projemize yol gösteren tüm topluluk üyelerine.
-İletişim
-Proje Sorumlusu: Emirhan Akdoğan - akdoganetsemirhan@gmail.com
-Proje Sorumlusu: Ahmet Can Kılıçarslan - kilicarslanahmet59@gmail.com
+---
+
+## 📬 İletişim
+
+Her türlü öneri, katkı veya geri bildirim için çekinmeden ulaş:
+
+| İsim | E-posta |
+|------|---------|
+| **Emirhan Akdoğan** | akdoganetsemirhan@gmail.com |
+| **Ahmet Can Kılıçarslan** | kilicarslanahmet59@gmail.com |
+
 
 Bir hata mı buldunuz, yeni bir özellik öneriniz mi var veya projemiz hakkında konuşmak mı istersiniz? Lütfen bir GitHub Sorunu (Issue) açın veya doğrudan benimle iletişime geçin
